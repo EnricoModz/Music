@@ -1,0 +1,52 @@
+body {
+
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.veigh {
+    height: 400px;
+    width: 400px;
+}
+
+.gato {
+    height: 400px;
+    width: 400px;
+}
+
+.scoteiro {
+    height: 400px;
+    width: 400px;
+}
+
+.matue {
+    height: 400px;
+    width: 400px;
+}
+
+.Post {
+    height: 400px;
+    width: 400px;
+}
+
+main{
+    max-width:  900px
+
+}
+
+.POP {
+    color: white;
+}
+
+.ROCK {
+    color: white;
+}
+
+.TRAP {
+    color: white;
+}
+
+.MUSIC {
+    color: white;
+}

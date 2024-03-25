@@ -1,0 +1,41 @@
+body {
+
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    
+}
+
+main{
+    max-width:  900px
+
+}
+
+
+
+.Imagem {
+    height: 400px;
+    width: 400px;
+    padding-left: 700px;
+}
+
+.Mu {
+    height: 60px;
+    width: 60px;
+}
+
+.POP {
+    color: white;
+}
+
+.ROCK {
+    color: white;
+}
+
+.TRAP {
+    color: white;
+}
+
+.MUSIC {
+    color: white;
+}

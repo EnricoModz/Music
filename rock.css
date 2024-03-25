@@ -1,0 +1,35 @@
+body {
+
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+main{
+    max-width:  900px
+
+}
+
+.OBG {
+    height: 400px;
+    width: 400px;
+}
+
+.POP {
+    color: white;
+}
+
+.ROCK {
+    color: white;
+}
+
+.TRAP {
+    color: white;
+}
+
+.MUSIC {
+    color: white;
+}   
+
+
+
